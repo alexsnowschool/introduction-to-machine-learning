@@ -7,5 +7,5 @@
 
 Course ကို အရမ်း မကြီးလွန်း မသေးလွန်းဖြစ်ဖို့အတွက် ပြင်ဆင်ထားပါတယ်။ Concept ပိုင်းကို သေချာ အာရုံစိုက်ပေးမယ့်အပြင် Mini-task လေးတွေလည်း လုပ်ရမှာပါ။ Mini-task ဆိုပေမယ့် concept တွေ နိုင်နင်းမှ လုပ်နိုင်မှာပါ။
 
-![Introduction to Python Basics](./1.png)
+![Introduction to Python Basics](./intro_to_ml.png)
 
